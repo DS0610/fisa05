@@ -41,3 +41,5 @@ print('world')
 |김연지|40|
 
 [네이버로 가기](https://naver.com)
+
+![](사진 url)
