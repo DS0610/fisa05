@@ -30,7 +30,7 @@ print('hello')
 print('world')
 ```
 
-```python
+python
 python 언어에 맞게 코드줄 작성
 print('hello')
 print('world')
